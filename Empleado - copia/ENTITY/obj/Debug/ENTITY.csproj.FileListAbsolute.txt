@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\Empleado\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\asus\source\repos\Empleado\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\asus\source\repos\Empleado\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Empleado\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Empleado\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\asus\source\repos\Empleado\ENTITY\obj\Debug\ENTITY.pdb
+C:\Programacion III\Empleado - copia\ENTITY\bin\Debug\ENTITY.dll
+C:\Programacion III\Empleado - copia\ENTITY\bin\Debug\ENTITY.pdb
+C:\Programacion III\Empleado - copia\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Programacion III\Empleado - copia\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Programacion III\Empleado - copia\ENTITY\obj\Debug\ENTITY.dll
+C:\Programacion III\Empleado - copia\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\ENTITY\obj\Debug\ENTITY.pdb

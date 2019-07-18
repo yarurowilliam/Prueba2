@@ -1,0 +1,25 @@
+C:\Users\asus\source\repos\Empleado\DAL\bin\Debug\DAL.dll
+C:\Users\asus\source\repos\Empleado\DAL\bin\Debug\DAL.pdb
+C:\Users\asus\source\repos\Empleado\DAL\bin\Debug\ENTITY.dll
+C:\Users\asus\source\repos\Empleado\DAL\bin\Debug\ENTITY.pdb
+C:\Users\asus\source\repos\Empleado\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Empleado\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Empleado\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\asus\source\repos\Empleado\DAL\obj\Debug\DAL.dll
+C:\Users\asus\source\repos\Empleado\DAL\obj\Debug\DAL.pdb
+C:\Programacion III\Empleado - copia\DAL\bin\Debug\DAL.dll
+C:\Programacion III\Empleado - copia\DAL\bin\Debug\DAL.pdb
+C:\Programacion III\Empleado - copia\DAL\bin\Debug\ENTITY.dll
+C:\Programacion III\Empleado - copia\DAL\bin\Debug\ENTITY.pdb
+C:\Programacion III\Empleado - copia\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Programacion III\Empleado - copia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Programacion III\Empleado - copia\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Programacion III\Empleado - copia\DAL\obj\Debug\DAL.dll
+C:\Programacion III\Empleado - copia\DAL\obj\Debug\DAL.pdb
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\DAL\bin\Debug\DAL.dll
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\DAL\bin\Debug\DAL.pdb
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\DAL\bin\Debug\ENTITY.dll
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\DAL\bin\Debug\ENTITY.pdb
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\DAL\obj\Debug\DAL.dll
+C:\Users\UNICESAR-401\Downloads\Programacion III\Programacion III\Empleado - copia\DAL\obj\Debug\DAL.pdb
